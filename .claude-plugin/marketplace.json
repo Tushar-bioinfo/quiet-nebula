@@ -1,0 +1,5 @@
+{
+  "name": "quiet-nebula",
+  "owner": { "name": "Tushar-bioinfo" },
+  "plugins": [{ "name": "quiet-nebula", "source": "./" }]
+}
